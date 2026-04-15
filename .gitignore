@@ -1,9 +1,6 @@
 # Downloaded site mirrors
 site-mirror/
 
-# Generated output files
-output/
-
 # Logs
 wget-log
 *.log
